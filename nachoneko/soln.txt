@@ -1,0 +1,9 @@
+PS C:\Users\User\Downloads\nachoneko> certutil -hashfile "nachoneko - Copy (4).webp" MD5
+MD5 hash of nachoneko - Copy (4).webp:
+40ac425aaf8c101ddb24d65744a5e777
+CertUtil: -hashfile command completed successfully.
+
+PS C:\Users\User\Downloads\nachoneko> certutil -hashfile "nachoneko.webp" MD5
+MD5 hash of nachoneko.webp:
+bc6bfcb47fec8520cccedd3bb89ef355
+CertUtil: -hashfile command completed successfully.
